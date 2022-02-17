@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @somechemist
+- 👋 Hi, I’m Justin Powell
 - 👀 I’m interested in all things Linux
 - 🌱 I’m currently learning Python3, Bash, etc.
 - 💞️ I’m looking to collaborate on projects of any kind
