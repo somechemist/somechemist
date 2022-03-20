@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin Powell
-- 👀 I’m interested in all things Linux
-- 🌱 I’m currently learning Python3, Bash, etc.
+- 👀 I’m interested in all things Linux and programming
+- 🌱 I’m currently learning Python3, Bash, PHP, Rust.
 - 💞️ I’m looking to collaborate on projects of any kind
 - 📫 How to reach me PENDING
 
