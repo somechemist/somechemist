@@ -5,7 +5,7 @@
 - 📫 How to reach me PENDING
 
 ###Arch Linux is amazing. Check them out and their wiki!
-![Arch Logo](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png =200x75)
+![Arch Logo](./arch-logo.png)
 <!---
 somechemist/somechemist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
